@@ -7,6 +7,13 @@
 ## 🌍 Socials:
 
 
+<p align="left">
+  <a href="https://linkedin.com/in/ayush-joshi-400124215/">
+    <img
+      alt="Linkedin"
+      title="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&label"
+  /></a>
   <a href="https://www.youtube.com/@mrteachyt?sub_confirmation=1">
     <img
       alt="youtube subscribers"
