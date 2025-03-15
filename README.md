@@ -123,6 +123,9 @@
   <a href="https://eternalbytes.in/">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
+  <a href="https://discord.gg/V4dK27MsAA">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </div>
 
 <!-- YouTube Stats -->
