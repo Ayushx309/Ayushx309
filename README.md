@@ -111,7 +111,7 @@
 <h2 id="connect-with-me">🌐 Connect With Me</h2>
 
 <div align="center">
-  <a href="https://linkedin.com/in/ayush-joshi-400124215/">
+  <a href="https://linkedin.com/in/ayushx309">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@mrteachyt">
