@@ -79,11 +79,12 @@
   <a href="https://github.com/Ayushx309/DrivePulse">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushx309&repo=DrivePulse&theme=tokyonight" />
   </a>
-    <a href="https://github.com/Ayushx309/LiteDBAdmin">
+</div>
+<div align="center">
+  <a href="https://github.com/Ayushx309/LiteDBAdmin">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushx309&repo=LiteDBAdmin&theme=tokyonight" />
   </a>
 </div>
-
 
 
 
