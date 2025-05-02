@@ -76,7 +76,7 @@
 <h2 id="featured-projects">🚀 Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/Ayushx309/DrivePulse" style="margin-bottom:2px;">
+  <a href="https://github.com/Ayushx309/DrivePulse" style="margin-bottom:10px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushx309&repo=DrivePulse&theme=tokyonight" />
   </a>
 </div>
