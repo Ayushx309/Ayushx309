@@ -85,7 +85,11 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushx309&repo=LiteDBAdmin&theme=tokyonight" />
   </a>
 </div>
-
+<div align="center">
+  <a href="https://github.com/Ayushx309/codemetrix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushx309&repo=codemetrix&theme=tokyonight" />
+  </a>
+</div>
 
 
 <!-- GitHub Stats Section -->
