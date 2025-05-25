@@ -90,8 +90,8 @@
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/Ayushx309/codemetrix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushx309&repo=codemetrix&theme=tokyonight" />
+  <a href="https://github.com/Ayushx309/ButterPop.js">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushx309&repo=ButterPop.js&theme=tokyonight" />
   </a>
 </div>
 
