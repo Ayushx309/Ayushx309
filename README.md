@@ -1,4 +1,4 @@
-<!-- Header with animated text -->
+<!-- Header with animated text --> 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ayush%20Joshi&fontSize=80&fontAlignY=35&animation=fadeIn" />
 </div>
