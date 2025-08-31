@@ -28,7 +28,7 @@
 - 👨‍💻 Founder at **[Eternal Bytes](https://eternalbytes.in/)**
 - 🏠 Based in **Ahmedabad, Gujarat, India**
 - 💬 Ask me about **web development, Python, Java, and cybersecurity**
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/ayush-joshi-400124215/)**
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/ayushx309)**
 - ⚡ Fun fact: **I can debug code faster than I can find my keys in the morning**
 
 <br>
