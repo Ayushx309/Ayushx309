@@ -112,12 +112,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushx309&theme=tokyo-night&hide_border=true" alt="Ayush's Contribution Graph" />
 </p>
 
-<!-- GitHub Trophies -->
-<h2 id="github-trophies">🏆 GitHub Trophies</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayushx309&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
 <!-- Connect With Me Section -->
 <h2 id="connect-with-me">🌐 Connect With Me</h2>
 
