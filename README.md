@@ -24,7 +24,7 @@
   I'm a passionate Computer Science Engineering student and Full-Stack Developer with a focus on creating innovative solutions. With expertise in web development and cybersecurity, I enjoy building applications that solve real-world problems.
 </p>
 
-- 🔭 Currently building **Estate Align** — Real estate CRM & ERP for managing inquiries, sales, properties, accounts, companies, projects, and members.
+- 🔭 Currently building **Estate Align** - Real estate CRM & ERP for managing inquiries, sales, properties, accounts, companies, projects, and members.
 - 👨‍💻 Founder at **[Eternal Bytes](https://eternalbytes.in/)**
 - 🏠 Based in **Ahmedabad, Gujarat, India**
 - 💬 Ask me about **web development, Python, Java, and cybersecurity**
