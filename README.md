@@ -11,7 +11,6 @@
 <div align="center">
   <a href="#about-me">About Me</a> •
   <a href="#tech-stack">Tech Stack</a> •
-  <a href="#featured-projects">Projects</a> •
   <a href="#github-stats">Stats</a> •
   <a href="#connect-with-me">Connect</a>
 </div>
@@ -75,37 +74,12 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
-<!-- Projects Section -->
-<h2 id="featured-projects">🚀 Featured Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/Ayushx309/DrivePulse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushx309&repo=DrivePulse&theme=tokyonight" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/Ayushx309/LiteDBAdmin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushx309&repo=LiteDBAdmin&theme=tokyonight" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/Ayushx309/ButterPop.js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushx309&repo=ButterPop.js&theme=tokyonight" />
-  </a>
-</div>
-
-
 <!-- GitHub Stats Section -->
 <h2 id="github-stats">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushx309&theme=tokyonight&hide_border=true" alt="Ayush's GitHub Streak" />
 </p>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayushx309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ayush's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushx309&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Ayush's Top Languages" />
-</div>
 
 <!-- Activity Graph -->
 <p align="center">
