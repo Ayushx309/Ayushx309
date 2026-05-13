@@ -30,6 +30,21 @@
 - 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/ayushx309)**
 - ⚡ Fun fact: **I can debug code faster than I can find my keys in the morning**
 
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 <br>
 
 <!-- Tech Stack Section -->
@@ -68,6 +83,7 @@
 ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 </div>
+
 
 <!-- Coding Quote -->
 <div align="center">
